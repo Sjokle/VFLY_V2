@@ -1,0 +1,15 @@
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2.1.csproj.AssemblyReference.cache
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2._1.ablock.resources
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2._1.Form1.resources
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2._1.Properties.Resources.resources
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2.1.csproj.GenerateResource.cache
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2.1.csproj.CoreCompileInputs.cache
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\bin\Debug\VFLY.V2.1.exe.config
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\bin\Debug\VFLY.V2.1.exe
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\bin\Debug\VFLY.V2.1.pdb
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2.1.exe
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2.1.pdb
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2._1.bblock.resources
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2._1.cblock.resources
+C:\Users\WIN11FREE\Desktop\VFLY.V2.1\VFLY.V2.1\obj\Debug\VFLY.V2._1.notping.resources
